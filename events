@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PSNA</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+ 
+</head>
+
+<style>
+       *{
+        
+        margin: 0;
+        padding:0;
+        box-sizing: border-box;
+        font-family: sans-serif;
+       }
+       body{
+           background-image: url("https://media.giphy.com/media/11j5OF7BTglVkc/giphy.gif");
+       
+           text-align: center;
+           
+       }
+       
+       header{
+           height:50px;
+           width: :100%;
+           background-color:grey;
+           animation: header 1s ease-in-out;
+    }
+    @keyframes header{
+        0%{
+            opacity: 0;
+            transform: translateY(-100%);
+        }
+    }
+       
+       ul li{
+           display:flex;
+           float: right;
+           padding-left: 20px;
+           padding-top: 15px;
+           padding-right: 20px;
+           font-size: 15px;
+           font-weight: 600;
+           cursor: pointer;
+           
+       }
+       li a{
+           text-decoration: none;
+           color: white;
+       }
+       li i{
+           color: white;
+       } 
+         ul li:hover{
+           color: white;
+           opacity: 50%;
+       }
+
+
+.img1{
+margin-top:20px;
+}
+h2
+{
+color:green;
+font-family:serif;
+font-size:40px;
+}
+
+.img2{
+margin-top:50px;
+}
+
+.content button{        padding: 15px 30px;
+        background-color:grey;
+        font-size: 18px;
+        border-radius: 10px;
+        margin-left:0%;
+        margin-top:3%;
+        font-weight:600;
+        cursor: pointer;
+        opacity: 100px;
+        
+        
+           
+    }
+        button a{
+        
+    text-decoration:none;
+           color: white; 
+     opacity: 100px;
+    }   
+
+    
+    button:hover{
+        background: red;
+    }
+       button i{
+           color: #E5B822;
+       }
+       .date i{
+       color:green;
+       }
+   
+        .date a{
+       color:green;
+       font-family:Fantasy;
+font-size:20px;
+     
+        
+       
+       }
+</style>
+
+<body>
+ <div>    
+        <header>
+            
+<ul>
+         <li><a href="https://riyaashk.github.io/imath-homepage/"><i class="fa fa-home"></i> Home</a></li>
+               <li><a href="#"><i class="fa fa-user"></i> About us</a></li>
+        
+         
+    
+
+</ul>
+       </header>
+     </div> 
+     
+     <div class="img1">  
+<img src="https://raw.githubusercontent.com/Riyaashk/i-math-events-/main/time%20to%20escape%20copy-min.jpg"
+      style="width:320px;height:550px;">
+</div><br>
+
+  <h2>Time to escape</h2>
+   <div class="date">
+  
+ <a><i class="fa fa-calendar"></i> 4.4.2022</a>  </div>
+   <div class="content">
+           
+            <button><a href="#"> <i class="fa fa-file"></i> Register Now</a></button> 
+              
+        </div>
+  
+  
+  
+  
+  
+       
+     <div class="img1">  
+<img src="https://raw.githubusercontent.com/Riyaashk/i-math-events-/main/brain%20dumps%20copy-min.jpg"  style="width:320px;height:550px;">>
+</div><br>
+
+  <h2>Brain Dumps</h2>
+  
+   <div class="date">
+  
+ <a><i class="fa fa-calendar"></i> 4.4.2022</a>  </div>
+   <div class="content">
+           
+            <button><a href="#"> <i class="fa fa-file"></i> Register Now</a></button> 
+              
+        </div>
+        
+        
+          <div class="img1">  
+<img src="https://raw.githubusercontent.com/Riyaashk/i-math-events-/main/i%20math%20club.jpg"  style="width:320px;height:550px;">>
+</div><br>
+
+  <h2>Treasure Hunt</h2>
+  
+   <div class="date">
+  
+ <a><i class="fa fa-calendar"></i> 4.4.2022</a>  </div>
+   <div class="content">
+           
+            <button><a href="#"> <i class="fa fa-file"></i> Register Now</a></button> 
+              
+        </div>
+        
+        
+        
+        
+        
+               <div class="img1">  
+<img src="https://raw.githubusercontent.com/Riyaashk/i-math-events-/main/ORGANIZES.jpg"  style="width:320px;height:550px;">>
+</div><br>
+
+  <h2>Best Manager</h2>
+  
+   <div class="date">
+  
+ <a><i class="fa fa-calendar"></i> 4.4.2022</a>  </div>
+   <div class="content">
+           
+            <button><a href="#"> <i class="fa fa-file"></i> Register Now</a></button> 
+              
+        </div>
+        
+        
+        
+                   <div class="img1">  
+<img src="https://raw.githubusercontent.com/Riyaashk/i-math-events-/main/glow-min.png"  style="width:320px;height:550px;">>
+</div><br>
+
+  <h2>Tic-Toc-Toe</h2>
+  
+   <div class="date">
+  
+ <a><i class="fa fa-calendar"></i> 4.4.2022</a>  </div>
+   <div class="content">
+           
+            <button><a href="#"> <i class="fa fa-file"></i> Register Now</a></button> 
+              
+        </div>
+  
+  
+  
+  
+                   <div class="img1">  
+<img src="https://raw.githubusercontent.com/Riyaashk/i-math-events-/main/I%20MATH%20CLUB-min.png"  style="width:320px;height:550px;">>
+</div><br>
+
+  <h2>Guessing Guns</h2>
+  
+   <div class="date">
+  
+ <a><i class="fa fa-calendar"></i> 4.4.2022</a>  </div>
+   <div class="content">
+           
+            <button><a href="#"> <i class="fa fa-file"></i> Register Now</a></button> 
+              
+        </div>
+        
+        
+        
+                        <div class="img1">  
+<img src="https://raw.githubusercontent.com/Riyaashk/i-math-events-/main/CLUB.png"  style="width:320px;height:550px;">>
+</div><br>
+
+  <h2>Quick Witted</h2>
+  
+   <div class="date">
+  
+ <a><i class="fa fa-calendar"></i> 4.4.2022</a>  </div>
+   <div class="content">
+           
+            <button><a href="#"> <i class="fa fa-file"></i> Register Now</a></button> 
+              
+        </div>
+ 
+ 
+ 
+ 
+          <div class="img1">  
+<img src="https://raw.githubusercontent.com/Riyaashk/i-math-events-/main/QUADRATIC%20QUESTERS.jpg"  style="width:320px;height:550px;">>
+</div><br>
+
+  <h2>Quadratic Questers</h2>
+  
+   <div class="date">
+  
+ <a><i class="fa fa-calendar"></i> 4.4.2022</a>  </div>
+   <div class="content">
+           
+            <button><a href="#"> <i class="fa fa-file"></i> Register Now</a></button> 
+              
+        </div>
+  
+
+</body>
+</html>
